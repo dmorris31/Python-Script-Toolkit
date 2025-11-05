@@ -8,7 +8,7 @@
 
 A simple Python utility that evaluates the strength of a given password using [zxcvbn](https://github.com/dropbox/zxcvbn), an open-source library developed by Dropbox. zxcvbn uses real-world data to estimate how easily a password could be cracked through dictionary, brute-force, or pattern-based attacks. These are common methods used by attackers to guess passwords and obtain sensitive information, which is why creating strong, unpredictable passwords is important.
 
-Password strength determines how resistant a password is to being guessed or cracked by attackers. A variety of factors contribute to a strong password, and the general standard is:
+Password strength determines how resistant a password is to being guessed or cracked by attackers. A variety of factors contribute to a strong password, the general standard is:
 
 - Length over complexity: Minimum of 8 characters, ideally 15+ for stronger protection.
 - Use a mix of characters: Combine letters, numbers, symbols, and spaces to increase randomness.
