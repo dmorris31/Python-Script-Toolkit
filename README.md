@@ -7,5 +7,6 @@ A growing collection of Python scripts and command-line tools designed to automa
 ## Repository Structure
 
 - Password Strength Checker
+- System Information Reporter
 
 
